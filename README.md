@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning IIIT Raichur
 - 💞️ I’m looking to collaborate on ...
   You can reach me :gmail-Swarupthippyswamy@gmail.com
-                    mob no-+917676603557
+                   :mob no-+917676603557
 
 
 <!---
