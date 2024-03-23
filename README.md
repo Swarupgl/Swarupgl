@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Swarupgl
 - 👀 I’m interested in iot projects and programming
 - 🌱 I’m currently learning IIIT Raichur
-- 💞️ I’m looking to collaborate on ...
   You can reach me :gmail-Swarupthippyswamy@gmail.com
                    :mob no-+917676603557
 
