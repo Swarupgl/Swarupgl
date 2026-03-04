@@ -1,7 +1,6 @@
 # Hi there, I'm Swarup G L 👋
 
-I am a passionate **Artificial Intelligence and Data Science** student at **IIIT Raichur** (Class of 2027). I specialize in bridging the gap between high-level AI algorithms and low-level hardware integration. Currently, I am deep-diving into **GATE DA** preparation and advanced **Parallel Matrix Computation**.
-
+I am a passionate **Artificial Intelligence and Data Science** student at **IIIT Raichur** (Class of 2027). I specialize in bridging the gap between high-level AI algorithms and low-level hardware integration.
 ### 🚀 What I’m Working On
 
 * **Ghost-Eye**: Building a multi-modal object detection system combining thermal, radar, and camera data for foggy conditions.
